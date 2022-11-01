@@ -1,0 +1,30 @@
+footer {
+    background: rgb(28,54,67);
+    background: linear-gradient(90deg, rgb(28, 57, 71) 0%, rgba(29,82,113,1) 73%)!important;  
+}
+
+.gradiente {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,0.7010154403558299) 0%, rgba(0,0,0,0.2528361686471463) 100%);
+    text-align: justify;
+}
+
+.cards{
+    justify-content: space-around;
+    margin: 1em 9em;   
+    display: flex;
+}
+
+.card-body{
+    text-align: center;
+}
+
+#boton-tickets-Borrar {
+    background-color: #7FC733;
+    border: 0;
+}
+
+#boton-tickets-Resumen {
+    background-color: #7FC733;
+    border: 0;
+}
